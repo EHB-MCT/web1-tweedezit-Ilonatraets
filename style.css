@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,700;1,700&display=swap");
+
+body {
+  background-color: #324cdc;
+  margin: 0;
+  padding: 0px;
+
+  font-family: "Archivo", sans-serif;
+}
+
+header {
+  margin: 250px;
+  width: 100%;
+  height: auto;
+  background-color: transparent;
+  padding: 20px;
+}
+
+.logo {
+  width: clamp(300px, 13vw, 540px);
+  height: auto;
+  position: absolute;
+  top: 50px;
+  left: 150px;
+}
+
+.hero {
+  width: clamp(450px, 25vw, 340px);
+  height: auto;
+  position: absolute;
+  right: 350px;
+  top: 200px;
+}
+
+h1 {
+  width: 25%;
+  color: #ffffff;
+  font-family: "EB Garamond Variable Font";
+  text-align: justify;
+}
+
+nav {
+  margin: 0px;
+  width: 100%;
+  height: auto;
+  background-color: white;
+  padding: 20px;
+}
+p {
+  width: 500px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+}
+
+.Evgeniyah {
+  position: absolute;
+  right: 600px;
+  top: 950px;
+}
+.winner1 {
+  position: relative;
+  left: 300px;
+}
+.Evgeniyap {
+  position: absolute;
+  left: 900px;
+  top: 1000px;
+}
+
+.winner2 {
+  position: relative;
+  left: 350px;
+  top: 500px;
+}
+
+.Ankitap {
+  position: absolute;
+  right: 1000px;
+  top: 1450px;
+}
+
+.winner3 {
+  position: relative;
+  left: 300px;
+  top: 500px;
+}
+
+button {
+  color: #ffffff;
+  background-color: #324cdc;
+}
+button:hover {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.button1 {
+  color: #ffffff;
+  background-color: #324cdc;
+}
+
+.button1:hover {
+  color: #000000;
+  background-color: #324cdc;
+}
+
+footer {
+  text-align: center;
+}
+.h1foot {
+  color: #ffffff;
+  font-family: "EB Garamond Variable Font";
+}
+h6 {
+  width: 20%;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
